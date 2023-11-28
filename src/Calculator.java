@@ -18,7 +18,6 @@ public class Calculator {
     private JButton seven;
     private JButton four;
     private JButton one;
-    private JButton doubleZero;
     private JButton add;
     private JButton eight;
     private JButton five;
